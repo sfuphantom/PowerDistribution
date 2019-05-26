@@ -2,67 +2,10 @@
 FileName = PDB_final_han.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Paste
-      File : PDB_final_han.GTP
+Generating : Bottom Overlay
+      File : PDB_final_han.GBO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PDB_final_han.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D61
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PDB_final_han.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PDB_final_han.GM1
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -85,6 +28,16 @@ Used DCodes :
     D49
     D50
     D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PDB_final_han.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -123,8 +76,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : PDB_final_han.GTL
+Generating : Mechanical 15
+      File : PDB_final_han.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PDB_final_han.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -132,7 +99,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D14
     D15
     D16
     D17
@@ -149,13 +115,21 @@ Used DCodes :
     D28
     D29
     D30
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PDB_final_han.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -190,16 +164,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PDB_final_han.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom Pad Master
       File : PDB_final_han.GPB
 
@@ -212,6 +176,24 @@ Used DCodes :
     D55
     D56
     D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PDB_final_han.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D53
+    D55
+    D56
+    D57
+    D58
 *************************************************************
 
 *************************************************************
@@ -228,17 +210,35 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : PDB_final_han.GBL
+Generating : Top Layer
+      File : PDB_final_han.GTL
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
     D52
+    D53
+    D54
     D55
     D56
     D57
