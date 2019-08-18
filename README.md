@@ -8,4 +8,4 @@ This Board has an input of 12V and provides 3 Output pins for 12V and 5 outpins 
 
 Here's a look at the most recent version of the Board:
 
-![PDB](PCB_Final.JPG)
+![PDB](PCB_FINAL.JPG)
