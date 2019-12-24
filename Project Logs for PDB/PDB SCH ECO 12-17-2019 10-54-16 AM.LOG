@@ -1,0 +1,3 @@
+Remove Pin=C3-2 From Net=BOOTSTRAP_5V
+Remove Pin=U2-2 From Net=FB_5V
+Remove Pin=U2-4 From Net=BOOTSTRAP_5V
