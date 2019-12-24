@@ -1,14 +1,14 @@
 # Power Distributuion Board
 Power Distribution Board: Provides protection on the low voltage circuitry
 
-This Board has an input of 12V and provides 3 Output pins for 12V and 5 outpins of 5V with a minimum total output current of 10A. All the output pins have Undervoltage/Overvoltage Protection and Reverse Input Protection. PDB uses the following IC's:
+This Board has an input of 12V and provides Output pins for 12V and 5V with a minimum total output current of 10A and a maximum of 35A. All the output pins have Undervoltage/Overvoltage Protection, Reverse Input Protection and Current Surge Protection. PDB uses the following IC's:
 
 - [LT4363](https://www.digikey.ca/products/en?keywords=LT4363CMS-2%23PBF)
 - [AP65550FN-7](https://www.digikey.ca/product-detail/en/diodes-incorporated/AP65550FN-7/AP65550FN-7DICT-ND/5147405)
 
 Here's a look at the most recent version of the Board:
 
-![PDB](PCB_FINAL.JPG)
+![PDB](pdb.jpg)
 
 Name | Sch Lib | Footprint Lib
 ---|---|---
@@ -37,3 +37,27 @@ Red LED|QTLP600CRTR|LED
 20k|RNCF0805DTE20K0|R0805
 22.1k|RNCF0805DTE22K1|R0805
 TVS diode|SMAJ58A-13-F|DIODE_TVS
+|||
+\* Need to add a 40-50pin connector at the top-right corner and maybe an LED for input voltage
+
+# PDB will supply voltages to the following components
+
+|Sr. No.|Board name|Voltage provided|
+|---|---|---|
+|1|VCU|12V|
+|2|BMS Master|12V|
+|3|BMS slave|12V|
+|4|Thermistor Expansion|5V|
+|5|BSPD|5V|
+|6|TSAL|12V|
+|7|Shutdown|5V|
+|8|Charging shutdown|5V|
+|9|Precharge/Discharge|-|
+|10|Dashboard|12V|
+|11|APPS|5V|
+|12|BSE|5V|
+|13|HV|?|
+|||
+|Total|5V|6|
+|Total|12V|5|
+|||
