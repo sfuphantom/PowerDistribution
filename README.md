@@ -37,8 +37,8 @@ Red LED|QTLP600CRTR|LED
 20k|RNCF0805DTE20K0|R0805
 22.1k|RNCF0805DTE22K1|R0805
 TVS diode|SMAJ58A-13-F|DIODE_TVS
+32 Pin Molex Connector|05595932|MOLEX_32PIN
 |||
-\* Need to add a 40-50pin connector at the top-right corner and maybe an LED for input voltage
 
 # PDB will supply voltages to the following components
 
