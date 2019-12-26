@@ -46,17 +46,18 @@ TVS diode|SMAJ58A-13-F|DIODE_TVS
 |---|---|---|
 |1|VCU|12V|
 |2|BMS Master|12V|
-|3|BMS slave|12V|
-|4|Thermistor Expansion|5V|
+|3|BMS slave|Not provided by PDB|
+|4|Thermistor Expansion|3.3V (Not provided bt PDB)|
 |5|BSPD|5V|
 |6|TSAL|12V|
 |7|Shutdown|5V|
-|8|Charging shutdown|5V|
-|9|Precharge/Discharge|-|
-|10|Dashboard|12V|
-|11|APPS|5V|
-|12|BSE|5V|
-|13|HV|?|
+|7|Charging shutdown|5V|
+|7|Precharge/Discharge|5V|
+|8|Brake Lights|12V|
+|9|Dashboard|5V and 12V|
+|10|APPS|5V|
+|11|BSE|5V|
+|12|HV|5V|
 |||
 |Total|5V|6|
 |Total|12V|5|
