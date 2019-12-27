@@ -1,4 +1,5 @@
 # Power Distributuion Board
+
 Power Distribution Board: Provides protection on the low voltage circuitry
 
 This Board has an input of 12V and provides Output pins for 12V and 5V with a minimum total output current of 10A and a maximum of 35A. All the output pins have Undervoltage/Overvoltage Protection, Reverse Input Protection and Current Surge Protection. PDB uses the following IC's:
@@ -9,6 +10,8 @@ This Board has an input of 12V and provides Output pins for 12V and 5V with a mi
 Here's a look at the most recent version of the Board:
 
 ![PDB](pdb.jpg)
+
+## Library Correlation
 
 Name | Sch Lib | Footprint Lib
 ---|---|---
@@ -40,7 +43,7 @@ TVS diode|SMAJ58A-13-F|DIODE_TVS
 32 Pin Molex Connector|05595932|MOLEX_32PIN
 |||
 
-# PDB will supply voltages to the following components
+## PDB will supply voltages to the following components
 
 |Sr. No.|Board name|Voltage provided|
 |---|---|---|
