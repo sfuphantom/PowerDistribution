@@ -64,6 +64,6 @@ TVS diode|SMAJ58A-13-F|DIODE_TVS
 
 Here's a look at the most recent version of the Board:
 
-![schematic](schematic.jpg)
+![schematic](schematic.JPG)
 ![2D PDB](pdb_2d.jpg)
 ![PDB](pdb.jpg)
