@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PDB_board.PcbDoc   2020-02-02  12:59:27 PM
+NCDrill File Report For: PDB_board.PcbDoc   2020-02-03  10:45:08 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,7 +10,7 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 T1      28mil (0.711mm)                                           Round             15        PTH        0.00inch (0.00mm)
 T2      32mil (0.8mm)                                             Round             32        PTH        0.00inch (0.00mm)
 T3      71mil (1.8mm)                                             Round             4         PTH        0.00inch (0.00mm)
-T4      118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T4      122mil (3.1mm)                                            Round             2         PTH        0.00inch (0.00mm)
 T5      157mil (4mm)                                              Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              57
