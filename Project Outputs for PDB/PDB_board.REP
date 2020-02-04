@@ -2,10 +2,31 @@
 FileName = PDB_board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 15
-      File : PDB_board.GM15
+Generating : Bottom Overlay
+      File : PDB_board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
 
     Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PDB_board.GM13
+
+    Adding Layer      : Mechanical 13
 
     Adding Layer      : Mechanical 1
 
@@ -19,6 +40,55 @@ Used DCodes :
     D14
     D17
     D18
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PDB_board.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D14
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PDB_board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D17
+    D18
+    D47
+    D48
+    D49
+    D50
+    D51
 *************************************************************
 
 *************************************************************
@@ -65,10 +135,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : PDB_board.GM13
+Generating : Mechanical 15
+      File : PDB_board.GM15
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Mechanical 15
 
     Adding Layer      : Mechanical 1
 
@@ -82,126 +152,6 @@ Used DCodes :
     D14
     D17
     D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PDB_board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PDB_board.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PDB_board.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D17
-    D18
-    D47
-    D48
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PDB_board.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D14
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PDB_board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D17
-    D18
-    D55
-    D56
-    D57
-    D58
 *************************************************************
 
 *************************************************************
@@ -268,6 +218,57 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Layer
+      File : PDB_board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D17
+    D18
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PDB_board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D17
+    D18
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : PDB_board.GTL
 
@@ -308,5 +309,6 @@ Used DCodes :
     D56
     D57
     D58
+    D59
 *************************************************************
 
