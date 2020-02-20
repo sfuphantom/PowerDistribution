@@ -41,26 +41,27 @@ TVS diode|SMAJ58A-13-F|DIODE_TVS
 
 ## PDB will supply voltages to the following components
 
-|Sr. No.|Board name|Voltage provided|
-|---|---|---|
-|1|VCU|12V|
-|2|BMS Master|12V|
-|3|BMS slave|Not provided by PDB|
-|4|Thermistor Expansion|3.3V (Not provided bt PDB)|
-|5|BSPD|5V|
-|6|TSAL|12V|
-|7|Shutdown|5V|
-|7|Charging shutdown|5V|
-|7|Precharge/Discharge|5V|
-|8|Brake Lights|12V|
-|9|Dashboard|5V and 12V|
-|10|APPS|5V|
-|11|BSE|5V|
-|12|HV|5V|
-|||
-|Total|5V|6|
-|Total|12V|5|
-|||
+|Sr. No.|Board name|Voltage provided|Current Rating|
+|---|---|---|---|
+|1|VCU|12V|1A|
+|2|BMS Master|12V|1A|
+|3|BMS slave|Not provided by PDB|-|
+|4|Thermistor Expansion|3.3V (Not provided bt PDB)|-|
+|5|BSPD|5V|1A|
+|6|TSAL|12V|3A|
+|7|Shutdown|5V|2A|
+|7|Charging shutdown|5V|1A|
+|7|Precharge/Discharge|5V|1A|
+|8|Brake Lights|12V|1A|
+|9|Dashboard|5V and 12V|1A and 1A|
+|10|APPS|5V|1A|
+|11|BSE|5V|1A|
+|12|HV|5V|1A|
+|13|Brake Light|12V|3A|
+||||
+|Total|5V|8|9A|
+|Total|12V|6|10A|
+||||
 
 Here's a look at the most recent version of the Board:
 
