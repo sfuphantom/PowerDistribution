@@ -7,6 +7,8 @@ This Board has an input of 12V and provides Output pins for 12V and 5V with a mi
 - [LT4363](https://www.digikey.ca/products/en?keywords=LT4363CMS-2%23PBF)
 - [AP65550FN-7](https://www.digikey.ca/product-detail/en/diodes-incorporated/AP65550FN-7/AP65550FN-7DICT-ND/5147405)
 
+*To add BOM with their links
+
 ## Library Correlation
 
 Name | Sch Lib | Footprint Lib
