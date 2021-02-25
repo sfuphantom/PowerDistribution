@@ -1,0 +1,16 @@
+Change Component Comment : Designator=R9 Old Comment=Res1 New Comment=22.1k
+Change Component Comment : Designator=R10 Old Comment=Res1 New Comment=124k
+Change Component Comment : Designator=D2 Old Comment=Zerner Diode New Comment=Zener Diode
+Change Component Designator: OldDesignator=LED1 NewDesignator=D3
+Change Component Designator: OldDesignator=LED2 NewDesignator=D4
+Change Component Designator: OldDesignator=LED3 NewDesignator=D5
+Change Net Name : Old Net Name=NetC2_2 New Net Name=TMR
+Change Net Name : Old Net Name=NetD2_2 New Net Name=ZENER
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=LED_5V
+Change Net Name : Old Net Name=NetR4_1 New Net Name=UV
+Change Net Name : Old Net Name=NetR5_2 New Net Name=OV
+Change Net Name : Old Net Name=NetR8_1 New Net Name=EN_5V
+Change Net Name : Old Net Name=NetR11_2 New Net Name=FLT
+Added Room: Name=NEW_PDB

@@ -1,0 +1,14 @@
+Change Component Comment : Designator=R13 Old Comment=665 New Comment=1k
+Change Component Description : Designator=F2 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F3 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F4 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F5 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F6 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F7 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F8 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F9 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F10 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F11 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F12 Old Description=0429007.WRML New Description=0466001.NR FUSE BOARD MNT 1A 63VAC/VDC 1206
+Change Component Description : Designator=F1 Old Description=0429007.WRML New Description=0466005.NR FUSE BOARD MNT 5A 32VAC/VDC 1206
+Added Room: Name=NEW_PDB
