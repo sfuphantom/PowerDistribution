@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R8 Old Footprint=R0805 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R9 Old Footprint=R0805 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R10 Old Footprint=R0805 New Footprint=AXIAL-0.3
+Change Component Comment: Designator=R8 Old Comment=1K  Resistor New Comment=Res1
+Change Component Comment: Designator=R9 Old Comment= 22.1K Resistor New Comment=Res1
+Change Component Comment: Designator=R10 Old Comment=124K Resistor New Comment=Res1
+Change Pin Designator/Name:  Old Designator=R9-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R9-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R10-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R10-2 Old Name=2 New Designator =1 New Name=1
