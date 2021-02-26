@@ -276,6 +276,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TCENGHHG
 
 [Document15]
+DocumentPath=U1 Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MMGYUIWT
+
+[Document16]
 DocumentPath=U3_U4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLOWFHRI
 
-[Document16]
+[Document17]
 DocumentPath=Phantom-Library\PhantomLibrary.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
