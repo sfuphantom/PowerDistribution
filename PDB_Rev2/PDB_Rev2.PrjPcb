@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TCENGHHG
 
 [Document2]
-DocumentPath=U1 Schematic.SchDoc
+DocumentPath=Protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MMGYUIWT
 
 [Document3]
-DocumentPath=U3_U4.SchDoc
+DocumentPath=Output.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
