@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=DRAIN Pin=J1-1
-Added Pin To Net: NetName=GND Pin=J1-2
-Added Pin To Net: NetName=DRAIN Pin=J2-1
-Added Pin To Net: NetName=GND Pin=J2-2
-Added Member To Class: ClassName=J1_Nets Member=Wire DRAIN
-Added Member To Class: ClassName=J2_Nets Member=Wire DRAIN
-Added Member To Class: ClassName=J1_Nets Member=Wire GND
-Added Member To Class: ClassName=J2_Nets Member=Wire GND
