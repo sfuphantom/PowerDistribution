@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TCENGHHG
 
 [Document2]
-DocumentPath=Protection.SchDoc
+DocumentPath=PDB_Protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MMGYUIWT
 
 [Document3]
-DocumentPath=Output.SchDoc
+DocumentPath=PDB_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,6 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLOWFHRI
 
+<<<<<<< HEAD
 [Document4]
 DocumentPath=Phantom-Library\Capacitors.SchLib
 AnnotationEnabled=1
@@ -377,6 +378,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBEIAROD
 
+=======
+>>>>>>> 9fcba68402a5932ae494901b044a5ffbb374e5d8
 [Configuration1]
 Name=Sources
 ParameterCount=0

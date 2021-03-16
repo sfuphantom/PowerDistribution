@@ -1,5 +1,0 @@
-Change Component Comment : Designator=R6 Old Comment=5K New Comment=10K
-Change Component Comment : Designator=R1 Old Comment=100K Resistor New Comment=56K Resistor
-Change Component Comment : Designator=R4 Old Comment=220K R New Comment=100K R
-Change Net Name : Old Net Name=+24V New Net Name=+12V
-Added Room: Name=NEW_PDB
