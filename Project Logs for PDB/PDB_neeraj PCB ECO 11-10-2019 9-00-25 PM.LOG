@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=+12V Pin=R6-2
-Change Component Comment : Designator=R5 Old Comment=10K New Comment=20k
-Change Component Comment : Designator=R1 Old Comment=56K New Comment=42K
-Added Pin To Net: NetName=+12V Pin=R4-2
-Added Pin To Net: NetName=GND Pin=R6-2
-Added Pin To Net: NetName=+12V Pin=U1-6
-Change Net Name : Old Net Name=+12V New Net Name=SHDN
-Added Room: Name=NEW_PDB

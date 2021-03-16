@@ -1,5 +1,0 @@
-Change Component Comment : Designator=R1 Old Comment=56K Resistor New Comment=56K 
-Change Component Comment : Designator=D2 Old Comment=Zerner Diod New Comment=Zerner Diode
-Change Component Designator: OldDesignator=J1 NewDesignator=J2
-Change Component Designator: OldDesignator=X1 NewDesignator=J1
-Added Member To Class: ClassName=NEW_PDB Member=Component J2 4-794619-6
