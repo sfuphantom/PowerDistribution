@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Schlib1.SchLib
+DocumentPath=PDB_sch_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,7 +88,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLOWFHRI
 
-<<<<<<< HEAD
 [Document4]
 DocumentPath=Phantom-Library\Capacitors.SchLib
 AnnotationEnabled=1
@@ -378,8 +377,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBEIAROD
 
-=======
->>>>>>> 9fcba68402a5932ae494901b044a5ffbb374e5d8
+[Document21]
+DocumentPath=PDB_PCB_lib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LMESFKHC
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
