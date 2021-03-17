@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=FLT Pin=C6-1
+Removed Pin From Net: NetName=5V_OUT Pin=C6-2
+Removed Pin From Net: NetName=FLT Pin=C7-1
+Removed Pin From Net: NetName=5V_OUT Pin=C7-2
+Removed Member From Class: ClassName=PDB_Supply Member=C6
+Removed Member From Class: ClassName=PDB_Supply Member=C7
+Added Component: Designator=D3(DO-214AB (SMC))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mccsemi.com/up_pdf/SK82L-SK810L(SMC).PDF?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mccsemi.com/up_pdf/SK82L-SK810L(SMC).PDF?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.mccsemi.com/up_pdf/SK82L-SK810L(SMC).PDF?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.mccsemi.com/up_pdf/SK82L-SK810L(SMC).PDF?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "650mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK84L-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "200A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.72, 10=0.62, 100=0.4293, 500=0.3587, 1000=0.30528 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SK84L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "7713"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SK84L-TPMSDKR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=FLT Pin=D3-2
+Added Member To Class: ClassName=PDB_Supply Member=Component D3 40V
