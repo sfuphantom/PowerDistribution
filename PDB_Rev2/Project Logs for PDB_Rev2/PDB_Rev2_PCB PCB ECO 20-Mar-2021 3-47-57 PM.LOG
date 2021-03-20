@@ -1,0 +1,4 @@
+Change Component Library : Designator=Q2 Old Library=Transistors.SchLib New Library=PDB_sch_lib.SchLib
+Added Member To Class: ClassName=PDB_Protection Member=Component C3 0.1uF
+Added Member To Class: ClassName=PDB_Protection Member=Component R5 8.06K
+Added Room: Name=PDB_Supply

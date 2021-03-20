@@ -395,7 +395,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LMESFKHC
 
 [Document22]
-DocumentPath=PDB_Rev2_PCB.PcbDoc
+DocumentPath=PDB_Rev2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -409,7 +409,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DDRYPFNC
+DocumentUniqueId=DRIEWUPJ
 
 [Configuration1]
 Name=Sources
