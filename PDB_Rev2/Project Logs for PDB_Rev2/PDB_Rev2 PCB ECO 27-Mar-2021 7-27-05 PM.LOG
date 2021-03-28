@@ -1,0 +1,5 @@
+Change Component Library : Designator=U2 Old Library=ICs.SchLib New Library=PDB_sch_lib.SchLib
+Added Pin To Net: NetName=13V2_OUT Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Change Net Name : Old Net Name=12V_OUT New Net Name=13V2_Protected
+Added Member To Class: ClassName=PDB_Protection Member=Component R1 0.002R
