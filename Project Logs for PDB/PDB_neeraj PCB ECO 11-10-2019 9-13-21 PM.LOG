@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+12V Pin=R4-2
+Added Pin To Net: NetName=+12V Pin=U1-6
+Change Net Name : Old Net Name=+12V New Net Name=SHDN
+Added Room: Name=NEW_PDB
