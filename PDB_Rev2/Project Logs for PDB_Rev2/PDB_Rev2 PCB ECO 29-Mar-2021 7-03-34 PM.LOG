@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=13V2_OUT New Net Name=IN_N
+Change Net Name : Old Net Name=13V2_Protected New Net Name=IN_P
+Change Net Name : Old Net Name=SNS New Net Name=SNS_P
+Added Pin To Net: NetName=FET_GATE Pin=Q1-1
+Added Pin To Net: NetName=FET_GATE Pin=R2-2
+Added Net: Name=FET_GATE
+Added Differential Pair: Name=IN
