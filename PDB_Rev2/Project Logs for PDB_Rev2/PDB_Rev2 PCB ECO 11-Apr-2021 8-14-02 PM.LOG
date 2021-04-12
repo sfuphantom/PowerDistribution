@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=13V_P Pin=JP1-1
+Removed Member From Class: ClassName=Designator Member=JP1
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Added Member To Class: ClassName=Designator Member=Component D4 Green
