@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=5V NewDesignator=JP2
+Change Component Designator: OldDesignator=13V2 NewDesignator=JP1
+Added Component: Designator=JP3(TP3)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Designator Member=Component JP1 Testpoint2
+Added Member To Class: ClassName=Designator Member=Component JP3 Testpoint3

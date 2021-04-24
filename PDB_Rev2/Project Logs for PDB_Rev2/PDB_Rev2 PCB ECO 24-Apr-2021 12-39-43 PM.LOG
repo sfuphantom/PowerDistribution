@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SDA_OUT Pin=J3-1
+Removed Pin From Net: NetName=ALERT_OUT Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=SDA_OUT Pin=J3-3
+Added Pin To Net: NetName=ALERT_OUT Pin=J3-4
