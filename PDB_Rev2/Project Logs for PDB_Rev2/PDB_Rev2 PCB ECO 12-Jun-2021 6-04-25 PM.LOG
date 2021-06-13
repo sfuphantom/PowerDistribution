@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Added Member To Class: ClassName=Designator Member=Component JP1 Testpoint2
+Added Member To Class: ClassName=Designator Member=Component JP2 Testpoint2
