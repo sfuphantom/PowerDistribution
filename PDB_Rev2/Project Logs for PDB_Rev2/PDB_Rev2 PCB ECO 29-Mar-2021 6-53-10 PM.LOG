@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Vcc Pin=C2-2
+Removed Pin From Net: NetName=TMR Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=Vcc Pin=R3-2
+Removed Pin From Net: NetName=13V2_Protected Pin=R4-2
+Removed Pin From Net: NetName=FB Pin=R6-2
+Removed Pin From Net: NetName=NetR5_2 Pin=R8-2
+Added Pin To Net: NetName=13V2_Protected Pin=R1-2
+Added Pin To Net: NetName=IC_GATE Pin=R2-1
+Added Pin To Net: NetName=IC_GATE Pin=U1-4
+Added Net: Name=IC_GATE
