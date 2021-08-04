@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IN_N Pin=Q1-3
+Removed Pin From Net: NetName=IN_N Pin=R1-1
+Removed Pin From Net: NetName=FB Pin=R4-1
+Removed Pin From Net: NetName=FB Pin=R6-2
+Removed Pin From Net: NetName=FB Pin=U1-1
+Removed Pin From Net: NetName=IN_N Pin=U1-3
+Change Class Name : Old Net Name=PDB_Protection New Net Name=Designator
+Change Class Name : Old Net Name=PDB_Supply New Net Name=Designator

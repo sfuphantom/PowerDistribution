@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=TMR Pin=C3-2
+Added Pin To Net: NetName=IN_N Pin=Q1-3
+Added Pin To Net: NetName=IN_N Pin=R1-1
+Added Pin To Net: NetName=FB Pin=R6-2
+Added Pin To Net: NetName=IN_N Pin=U1-3
+Added Member To Class: ClassName=PDB_Supply Member=Component U2 INA226AIDGSR
