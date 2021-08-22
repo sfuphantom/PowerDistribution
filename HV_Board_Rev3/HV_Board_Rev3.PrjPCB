@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XAPKCDAO
 
 [Document5]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Capacitors.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,10 +120,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NAAVPRSO
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Connectors.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,10 +137,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KEHVNVUJ
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Diodes.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,10 +154,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LUGGOPMJ
+DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\ICs.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,10 +171,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QELDNWID
+DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Inductors.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,10 +188,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AKHWASUG
+DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\LEDs.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\LEDs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,10 +205,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BAPOMBKI
+DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Logic.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Logic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -222,10 +222,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RBWCNUYM
+DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Misc.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,10 +239,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WRNWUQXL
+DocumentUniqueId=
 
 [Document13]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\PCBLibrary.PcbLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\PCBLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -259,7 +259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\PHANTOM_FOOTPRINTS.PcbLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\PHANTOM_FOOTPRINTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -276,7 +276,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Power.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -290,10 +290,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CJAKLYBW
+DocumentUniqueId=
 
 [Document16]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Resistors.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -307,10 +307,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JQRDYSKA
+DocumentUniqueId=
 
 [Document17]
-DocumentPath=..\..\Phantom_libraries\Phantom-Library-master\Transistors.SchLib
+DocumentPath=..\..\..\Phantom_libraries\Phantom-Library-master\Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,7 +324,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LHWSPCLI
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
