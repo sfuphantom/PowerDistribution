@@ -1,0 +1,112 @@
+Circuit: * E:\PowerDistribution\HV_Board_Rev3\HV_Board_DC_Converter\LTSpice_Testing\5V_Buck.asc
+
+C5: Increased Cpar to 1e-007
+WARNING: Node NC_08 is floating.
+WARNING: Node NC_09 is floating.
+
+WARNING: Less than two connections to node NC_08.  This node is used by C5.
+WARNING: Less than two connections to node NC_09.  This node is used by C5.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(endoscreset:in)
+Ignoring empty pin current: Ix(endoscreset:out)
+Ignoring empty pin current: Ix(endleb:in)
+Ignoring empty pin current: Ix(endleb:out)
+Ignoring empty pin current: Ix(dprimeest:in)
+Ignoring empty pin current: Ix(dprimeest:out)
+Ignoring empty pin current: Ix(enddcmblank:in)
+Ignoring empty pin current: Ix(enddcmblank:out)
+Ignoring empty pin current: Ix(endsample:in)
+Ignoring empty pin current: Ix(endsample:out)
+Ignoring empty pin current: Ix(backuposc:in)
+Ignoring empty pin current: Ix(backuposc:out)
+Ignoring empty pin current: Ix(endresetss:in)
+Ignoring empty pin current: Ix(endresetss:out)
+Ignoring empty pin current: Ix(retry:in)
+Ignoring empty pin current: Ix(retry:out)
+Ignoring empty pin current: Ix(sleep:in)
+Ignoring empty pin current: Ix(sleep:out)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u1:6)
+Ignoring empty pin current: Ix(u1:7)
+Ignoring empty pin current: Ix(endoscreset:in)
+Ignoring empty pin current: Ix(endoscreset:out)
+Ignoring empty pin current: Ix(endleb:in)
+Ignoring empty pin current: Ix(endleb:out)
+Ignoring empty pin current: Ix(dprimeest:in)
+Ignoring empty pin current: Ix(dprimeest:out)
+Ignoring empty pin current: Ix(enddcmblank:in)
+Ignoring empty pin current: Ix(enddcmblank:out)
+Ignoring empty pin current: Ix(endsample:in)
+Ignoring empty pin current: Ix(endsample:out)
+Ignoring empty pin current: Ix(backuposc:in)
+Ignoring empty pin current: Ix(backuposc:out)
+Ignoring empty pin current: Ix(endresetss:in)
+Ignoring empty pin current: Ix(endresetss:out)
+Ignoring empty pin current: Ix(retry:in)
+Ignoring empty pin current: Ix(retry:out)
+Ignoring empty pin current: Ix(sleep:in)
+Ignoring empty pin current: Ix(sleep:out)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u1:6)
+Ignoring empty pin current: Ix(u1:7)
+Heightened Def Con from 0.299143 to 0.299143
+Heightened Def Con from 0.301724 to 0.301724
+Heightened Def Con from 0.307409 to 0.307409
+Heightened Def Con from 0.312523 to 0.312523
+Heightened Def Con from 0.313659 to 0.313659
+Heightened Def Con from 0.313943 to 0.313943
+Heightened Def Con from 0.314512 to 0.314512
+Heightened Def Con from 0.315933 to 0.315933
+Heightened Def Con from 0.329854 to 0.329854
+Heightened Def Con from 0.334399 to 0.334399
+Heightened Def Con from 0.337525 to 0.337525
+Heightened Def Con from 0.340082 to 0.340082
+Heightened Def Con from 0.340366 to 0.340366
+Heightened Def Con from 0.341218 to 0.341218
+Heightened Def Con from 0.342355 to 0.342355
+Heightened Def Con from 0.346618 to 0.346618
+Heightened Def Con from 0.348322 to 0.348322
+
+Date: Fri Sep 03 22:00:02 2021
+Total elapsed time: 8.630 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 875241
+traniter = 874885
+tranpoints = 258080
+accept = 186580
+rejected = 71517
+matrix size = 55
+fillins = 16
+solver = Normal
+Thread vector: 7.3/5.4[2] 3.1/2.5[2] 1.4/1.5[1] 0.2/1.0[1]  2592/500
+Matrix Compiler1: 3.92 KB object code size  1.1/0.7/[0.3]
+Matrix Compiler2: 4.44 KB object code size  0.4/0.6/[0.3]
+
