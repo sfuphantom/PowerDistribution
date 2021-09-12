@@ -1,26 +1,32 @@
 * E:\PowerDistribution\HV_Board_Rev3\HV_Board_DC_Converter\LTSpice_Testing\5V_Buck.asc
 XU1 N002 MP_01 MP_02 MP_03 MP_04 MP_05 MP_06 N008 N001 N006 NC_07 N007 N010 N012 N005 N005 N001 N011 LT8315
-V1 N002 0 300
+V1 N002 0 380
 C1 N003 N006 10p
 R1 N002 N003 4.99kK
 C2 N001 N005 10µ
 C3 N008 N005 10µ
 R2 N010 N009 22.1K
 C4 N009 N005 330n
-C5 NC_08 NC_09 0.1 V=25 Irms=0 Rser=0.025 Lser=800p
 R3 N011 N005 196m
 D1 N004 N001 CMDSH2-3
 R4 N007 N005 5K
-R5 N004 N007 15.4K
+R5 N004 N007 15.5K
 D2 Vout N004 RR268MM-600
 D3 0 N005 RFN10BM6S
-L1 N005 Vout 1.1m Ipk=0.1 Rser=24.8 Rpar=94200 Cpar=0
-C6 Vout 0 44µ
-D4 0 Vout UDZV6_2B
+L1 N005 Vout 1.1m Ipk=0.57 Rser=1.64088 Rpar=103620 Cpar=0 mfg="Coilcraft" pn="SPT44L-115"
+D4 0 Vout MYD
 R6 N012 N005 49K
+R7 Vout 0 50
+C7 N002 0 3.3µ V=450 Irms=40m Rser=0.98034 Lser=4.01406n mfg="Würth Elektronik" pn="865061457001 WCAP-ASLL 10x10,5" type="Al electrolytic"
+C8 0 N002 0.47µ V=630 Irms=0 Rser=0.0333146 Lser=13.2945n mfg="Würth Elektronik" pn="890303326009CS WCAP-FTBP 22.5 x 26 x 18 x 9" type="Box"
+D5 NC_08 NC_09 D
+C9 Vout 0 0.2m V=10 Irms=0 Rser=0 Lser=0
+C5 Vout 0 0.2m V=10 Irms=0 Rser=0 Lser=0
+C6 NC_10 NC_11 0.1µ V=25 Irms=728m Rser=0.14361 Lser=0 mfg="KEMET" pn="C0603C104K3RAC" type="X7R"
 .model D D
 .lib C:\Users\Kimia\OneDrive - Simon Fraser University (1sfu)\Documents\LTspiceXVII\lib\cmp\standard.dio
 .tran 350m startup
+.model MYD ako: 1N750 Bv=5
 .lib LT8315.sub
 .backanno
 .end

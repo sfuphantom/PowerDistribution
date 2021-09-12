@@ -1,31 +1,16 @@
 Circuit: * E:\PowerDistribution\HV_Board_Rev3\HV_Board_DC_Converter\LTSpice_Testing\5V_Buck.asc
 
-C5: Increased Cpar to 1e-007
-WARNING: Node NC_08 is floating.
+C8: Increased Cpar to 4.7e-013
+C7: Increased Cpar to 3.3e-012
 WARNING: Node NC_09 is floating.
+WARNING: Node NC_10 is floating.
+WARNING: Node NC_11 is floating.
 
-WARNING: Less than two connections to node NC_08.  This node is used by C5.
-WARNING: Less than two connections to node NC_09.  This node is used by C5.
-Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
-Starting Gmin stepping
-Gmin = 10
-Gmin = 1.07374
-Gmin = 0.115292
-Gmin = 0.0123794
-Gmin = 0.00132923
-Gmin = 0.000142725
-Gmin = 1.5325e-005
-Gmin = 1.6455e-006
-Gmin = 1.76685e-007
-Gmin = 1.89714e-008
-Gmin = 2.03704e-009
-Gmin = 2.18725e-010
-Gmin = 2.34854e-011
-Gmin = 2.52173e-012
-Gmin = 2.70769e-013
-Gmin = 0
-Gmin stepping succeeded in finding the operating point.
-
+WARNING: Less than two connections to node NC_08.  This node is used by D5.
+WARNING: Less than two connections to node NC_09.  This node is used by D5.
+WARNING: Less than two connections to node NC_10.  This node is used by C6.
+WARNING: Less than two connections to node NC_11.  This node is used by C6.
+Direct Newton iteration for .op point succeeded.
 Ignoring empty pin current: Ix(endoscreset:in)
 Ignoring empty pin current: Ix(endoscreset:out)
 Ignoring empty pin current: Ix(endleb:in)
@@ -74,29 +59,22 @@ Ignoring empty pin current: Ix(u1:4)
 Ignoring empty pin current: Ix(u1:5)
 Ignoring empty pin current: Ix(u1:6)
 Ignoring empty pin current: Ix(u1:7)
-Heightened Def Con from 0.299143 to 0.299143
-Heightened Def Con from 0.301724 to 0.301724
-Heightened Def Con from 0.307409 to 0.307409
-Heightened Def Con from 0.312523 to 0.312523
-Heightened Def Con from 0.313659 to 0.313659
-Heightened Def Con from 0.313943 to 0.313943
-Heightened Def Con from 0.313974 to 0.313974
 
-Date: Sat Sep 11 20:08:02 2021
-Total elapsed time: 2.853 seconds.
+Date: Sat Sep 11 21:39:01 2021
+Total elapsed time: 25.879 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 267360
-traniter = 267004
-tranpoints = 79056
-accept = 57353
-rejected = 21710
-matrix size = 55
-fillins = 16
+totiter = 2154596
+traniter = 2154564
+tranpoints = 580850
+accept = 432510
+rejected = 148340
+matrix size = 57
+fillins = 15
 solver = Normal
-Thread vector: 19.6/6.5[2] 8.0/2.6[2] 1.3/2.9[1] 0.2/0.9[1]  2592/500
-Matrix Compiler1: 3.92 KB object code size  3.5/1.1/[1.0]
-Matrix Compiler2: 4.44 KB object code size  0.4/0.7/[0.3]
+Thread vector: 7.3/5.4[3] 3.4/2.5[3] 1.4/1.3[1] 0.2/0.9[1]  2592/500
+Matrix Compiler1: 3.95 KB object code size  1.1/0.7/[0.4]
+Matrix Compiler2: 4.53 KB object code size  0.5/0.8/[0.3]
 
