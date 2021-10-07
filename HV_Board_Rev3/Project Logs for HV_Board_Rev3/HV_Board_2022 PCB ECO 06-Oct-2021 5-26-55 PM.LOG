@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=HV GND Pin=U1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=U1-2
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-5
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-6
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-7
+Removed Pin From Net: NetName=LV GND Pin=U1-8
+Removed Pin From Net: NetName=LV GND Pin=U1-9
+Removed Pin From Net: NetName=LV GND Pin=U1-10
+Removed Pin From Net: NetName=LV GND Pin=U1-11
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-12
+Added Component: Designator=U?(CFB750-300S12)
+Added Pin To Net: NetName=HV GND Pin=U?-1
+Added Pin To Net: NetName=NetC2_2 Pin=U?-2
+Added Pin To Net: NetName=NetC1_2 Pin=U?-5
+Added Pin To Net: NetName=NetC1_2 Pin=U?-6
+Added Pin To Net: NetName=NetC1_2 Pin=U?-7
+Added Pin To Net: NetName=LV GND Pin=U?-8
+Added Pin To Net: NetName=LV GND Pin=U?-9
+Added Pin To Net: NetName=LV GND Pin=U?-10
+Added Pin To Net: NetName=LV GND Pin=U?-11
+Added Pin To Net: NetName=NetC1_2 Pin=U?-12
+Added Pin To Net: NetName=NetC2_1 Pin=U?-C_HV
+Added Pin To Net: NetName=NetC2_1 Pin=U?-C_HV
+Added Pin To Net: NetName=NetC6_1 Pin=U?-C_HV
+Added Pin To Net: NetName=NetC6_1 Pin=U?-C_HV
+Added Pin To Net: NetName=NetC1_1 Pin=U?-C_LV_+12
+Added Pin To Net: NetName=NetC7_1 Pin=U?-C_LV_GND
+Added Member To Class: ClassName=HV_to_LV_Power_Supply Member=Component J1 WM4153-ND
+Added Member To Class: ClassName=HV_to_LV_Power_Supply Member=Component U? 400V-12V BUCK-62.5A
