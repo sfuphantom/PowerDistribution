@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC6_1 Pin=U?-C_HV
+Added Pin To Net: NetName=NetC6_1 Pin=U?-C_HV
+Change Net Name : Old Net Name=NetC1_2 New Net Name=D+12V
+Change Net Name : Old Net Name=NetC2_2 New Net Name=HV+400V
