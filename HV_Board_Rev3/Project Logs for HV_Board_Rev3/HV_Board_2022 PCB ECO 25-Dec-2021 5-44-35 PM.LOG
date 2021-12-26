@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Interlock Pin=J3-1
+Removed Pin From Net: NetName=LV GND Pin=J3-2
+Added Pin To Net: NetName=LV GND Pin=J3-1
+Added Pin To Net: NetName=Interlock Pin=J3-2
