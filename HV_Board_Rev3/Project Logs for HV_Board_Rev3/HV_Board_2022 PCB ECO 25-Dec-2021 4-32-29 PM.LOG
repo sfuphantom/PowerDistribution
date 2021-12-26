@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC6_1 Pin=U1-C_HV
+Added Pin To Net: NetName=NetC6_1 Pin=U1-C_HV
+Change Net Name : Old Net Name=+5-HV New Net Name=+5V_HV
+Change Net Name : Old Net Name=NetD2_13 New Net Name=Interlock
