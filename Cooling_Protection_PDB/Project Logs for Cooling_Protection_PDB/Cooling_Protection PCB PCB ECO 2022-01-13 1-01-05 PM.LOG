@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=GND New Net Name=FLT
+Change Net Name : Old Net Name=NetC1_2 New Net Name=GATE
+Change Net Name : Old Net Name=NetC3_2 New Net Name=TMR
+Change Net Name : Old Net Name=NetR3_1 New Net Name=FB
+Change Net Name : Old Net Name=NetR4_1 New Net Name=UV
+Change Net Name : Old Net Name=NetR4_2 New Net Name=OV
+Change Net Name : Old Net Name=Vin 12V_N New Net Name=SNS
+Change Net Name : Old Net Name=Vin 12V_P New Net Name=OUT
+Change Net Name : Old Net Name=Vin 13.2V New Net Name=SHDN
+Added Room: Name=Main Schematic

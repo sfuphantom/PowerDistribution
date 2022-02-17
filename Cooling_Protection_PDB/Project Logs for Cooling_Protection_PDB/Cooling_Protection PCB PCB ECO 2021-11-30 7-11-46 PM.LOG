@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Vin 12V Pin=*-2
+Removed Pin From Net: NetName=Vin 12V Pin=*-3
+Removed Pin From Net: NetName=Vin 12V Pin=J3-1
+Removed Pin From Net: NetName=Vin 12V Pin=J4-1
+Removed Pin From Net: NetName=Vin 12V Pin=Q1-3
+Removed Pin From Net: NetName=Vin 12V Pin=R1-1
+Removed Pin From Net: NetName=Vin 12V Pin=R1-2
+Removed Pin From Net: NetName=Vin 12V Pin=R3-2
+Added Pin To Net: NetName=Vin 12V_N Pin=*-3
+Added Pin To Net: NetName=Vin 12V_N Pin=Q1-3
+Added Pin To Net: NetName=Vin 12V_N Pin=R1-1
+Added Net: Name=Vin 12V_N
+Added Pin To Net: NetName=Vin 12V_P Pin=*-2
+Added Pin To Net: NetName=Vin 12V_P Pin=J3-1
+Added Pin To Net: NetName=Vin 12V_P Pin=J4-1
+Added Pin To Net: NetName=Vin 12V_P Pin=R1-2
+Added Pin To Net: NetName=Vin 12V_P Pin=R3-2
+Added Net: Name=Vin 12V_P
