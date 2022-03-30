@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP9
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP10
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP11
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Added Member To Class: ClassName=root Member=Component JP9 Testpoint2
+Added Member To Class: ClassName=root Member=Component JP10 Testpoint2
+Added Member To Class: ClassName=root Member=Component JP11 Testpoint2
