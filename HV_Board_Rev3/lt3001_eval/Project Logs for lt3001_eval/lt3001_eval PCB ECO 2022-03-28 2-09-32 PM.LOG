@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=JP2-1
+Removed Member From Class: ClassName=root Member=JP2
+Added Component: Designator=JP?(TP2)
+Added Pin To Net: NetName=NetD1_2 Pin=JP?-1
+Added Pin To Net: NetName=NetD1_2 Pin=T1-6
+Added Member To Class: ClassName=root Member=Component JP? Testpoint2

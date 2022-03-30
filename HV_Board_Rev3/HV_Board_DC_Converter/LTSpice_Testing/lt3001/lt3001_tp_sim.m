@@ -13,7 +13,7 @@ n = 0.85
 %% 1) transformer turns
 
 nps = (65 - vin_max - vleak)/(vout+vf_est) % less than
-npsChosen = 4
+npsChosen = 5
 %npsChosen = floor(nps)
 
 %% Primary inductance
@@ -26,7 +26,7 @@ lpri_swOff = (toffmin*npsChosen*(vout+vf_est))/isw_min % greater than
 % sw on time
 lpri_swOn = (ton_min*vin_max)/isw_min %greater than
 %lpri = lpri_swOff*1.3
-lpri=40e-6
+lpri=150e-6
 lsec = lpri/(npsChosen)^2
 %% Max load switching frequency
 d = ((vout+vf_est)*npsChosen)/((vout+vf_est)*npsChosen+vin)

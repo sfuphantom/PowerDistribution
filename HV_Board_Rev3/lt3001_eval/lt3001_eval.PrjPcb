@@ -48,23 +48,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\HV_Board_DC_Converter\lt3001_eval\root.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JGOYOKUK
-
-[Document2]
 DocumentPath=lt3001_eval.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFHLHRHI
 
-[Document3]
+[Document2]
 DocumentPath=lt3001-eval-new-sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -98,7 +81,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOUTQXAL
 
-[Document4]
+[Document3]
 DocumentPath=lt3001-eval-new.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +98,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFHXORGC
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\Phantom-Library\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -130,9 +113,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NAAVPRSO
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\Phantom-Library\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +132,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\Phantom-Library\Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -164,9 +147,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LUGGOPMJ
 
-[Document8]
+[Document7]
 DocumentPath=..\..\..\Phantom-Library\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -181,9 +164,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QELDNWID
 
-[Document9]
+[Document8]
 DocumentPath=..\..\..\Phantom-Library\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\Phantom-Library\LEDs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\Phantom-Library\Logic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,7 +217,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\Phantom-Library\Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -249,9 +232,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WRNWUQXL
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\Phantom-Library\PCBLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,7 +251,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\Phantom-Library\PHANTOM_FOOTPRINTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +268,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\Phantom-Library\Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,8 +285,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\..\..\Phantom-Library\Resistors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JQRDYSKA
+
+[Document16]
+DocumentPath=..\..\..\Phantom-Library\Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -320,21 +320,21 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=..\..\..\Phantom-Library\Transistors.SchLib
+DocumentPath=root.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SAOBCNOM
 
 [Configuration1]
 Name=Sources
@@ -1261,6 +1261,66 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID0=0603-255KR
+ComponentSymbolReference0=0603-255KR
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID1=Cap_22uf_10V_0603
+ComponentSymbolReference1=Cap_22uf_10V_0603
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID2=Cap_4.7uF_25V_0805
+ComponentSymbolReference2=Cap_4.7uF_25V_0805
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID3=Diode_Schottky_40V_6A
+ComponentSymbolReference3=Diode_Schottky_40V_6A
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID4=Diode_Zener_20V_250mW
+ComponentSymbolReference4=Diode_Zener_20V_250mW
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID5=Diode-75V-250mA
+ComponentSymbolReference5=Diode-75V-250mA
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID6=IC_LT3001
+ComponentSymbolReference6=IC_LT3001
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=lt3001-eval-new-sch.SchLib
+ComponentDesignItemID7=Xfmr_750315831
+ComponentSymbolReference7=Xfmr_750315831
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Misc.SchLib
+ComponentDesignItemID8=Testpoint2
+ComponentSymbolReference8=Testpoint2
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Resistors.SchLib
+ComponentDesignItemID9=0603-0R
+ComponentSymbolReference9=0603-0R
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1274,6 +1334,165 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Average Rectified Current
+ParameterUpdate0=1
+ParameterName1=Capacitance
+ParameterUpdate1=1
+ParameterName2=Case Code (Imperial)
+ParameterUpdate2=1
+ParameterName3=Case Code (Metric)
+ParameterUpdate3=1
+ParameterName4=Case/Package
+ParameterUpdate4=1
+ParameterName5=Category
+ParameterUpdate5=1
+ParameterName6=Comment
+ParameterUpdate6=1
+ParameterName7=Component Kind
+ParameterUpdate7=1
+ParameterName8=ComponentLink1Description
+ParameterUpdate8=1
+ParameterName9=ComponentLink1URL
+ParameterUpdate9=1
+ParameterName10=ComponentLink2Description
+ParameterUpdate10=1
+ParameterName11=ComponentLink2URL
+ParameterUpdate11=1
+ParameterName12=ComponentLink3Description
+ParameterUpdate12=1
+ParameterName13=ComponentLink3URL
+ParameterUpdate13=1
+ParameterName14=ComponentLink4Description
+ParameterUpdate14=1
+ParameterName15=ComponentLink4URL
+ParameterUpdate15=1
+ParameterName16=ComponentLink5Description
+ParameterUpdate16=1
+ParameterName17=ComponentLink5URL
+ParameterUpdate17=1
+ParameterName18=ComponentLink7Description
+ParameterUpdate18=1
+ParameterName19=ComponentLink7URL
+ParameterUpdate19=1
+ParameterName20=Composition
+ParameterUpdate20=1
+ParameterName21=Construction
+ParameterUpdate21=1
+ParameterName22=Contact Plating
+ParameterUpdate22=1
+ParameterName23=Depth
+ParameterUpdate23=1
+ParameterName24=Description
+ParameterUpdate24=1
+ParameterName25=Dielectric
+ParameterUpdate25=1
+ParameterName26=Features
+ParameterUpdate26=1
+ParameterName27=Frequency
+ParameterUpdate27=1
+ParameterName28=Height
+ParameterUpdate28=1
+ParameterName29=Lead Free
+ParameterUpdate29=1
+ParameterName30=Length
+ParameterUpdate30=1
+ParameterName31=Library Reference
+ParameterUpdate31=1
+ParameterName32=Manufacturer
+ParameterUpdate32=1
+ParameterName33=Manufacturer Part Number
+ParameterUpdate33=1
+ParameterName34=Max Operating Temperature
+ParameterUpdate34=1
+ParameterName35=Max Power Dissipation
+ParameterUpdate35=1
+ParameterName36=Max Reverse Voltage (DC)
+ParameterUpdate36=1
+ParameterName37=Military Standard
+ParameterUpdate37=1
+ParameterName38=Min Operating Temperature
+ParameterUpdate38=1
+ParameterName39=Mount
+ParameterUpdate39=1
+ParameterName40=Number of Pins
+ParameterUpdate40=1
+ParameterName41=Number of Terminations
+ParameterUpdate41=1
+ParameterName42=Package Quantity
+ParameterUpdate42=1
+ParameterName43=Packaging
+ParameterUpdate43=1
+ParameterName44=Power Rating
+ParameterUpdate44=1
+ParameterName45=Pricing 1
+ParameterUpdate45=1
+ParameterName46=Radiation Hardening
+ParameterUpdate46=1
+ParameterName47=REACH SVHC
+ParameterUpdate47=1
+ParameterName48=Resistance
+ParameterUpdate48=1
+ParameterName49=Resistor Type
+ParameterUpdate49=1
+ParameterName50=Reverse Recovery Time
+ParameterUpdate50=1
+ParameterName51=RoHS
+ParameterUpdate51=1
+ParameterName52=RoHS Compliant
+ParameterUpdate52=1
+ParameterName53=Schematic Label
+ParameterUpdate53=1
+ParameterName54=Series
+ParameterUpdate54=1
+ParameterName55=Stock 1
+ParameterUpdate55=1
+ParameterName56=Supplier 1
+ParameterUpdate56=1
+ParameterName57=Supplier Part Number 1
+ParameterUpdate57=1
+ParameterName58=Temperature Coefficient
+ParameterUpdate58=1
+ParameterName59=Termination
+ParameterUpdate59=1
+ParameterName60=Thickness
+ParameterUpdate60=1
+ParameterName61=Tolerance
+ParameterUpdate61=1
+ParameterName62=Voltage Rating
+ParameterUpdate62=1
+ParameterName63=Voltage Rating (DC)
+ParameterUpdate63=1
+ParameterName64=Width
+ParameterUpdate64=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=750315831
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CAP-0603
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CAP-0805
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=DIODE-SOD123
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=Diode-SOD123W
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=DIODE-SOD323
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=RES-0603
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=SOT95P280X100-5N
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=TP2
+ModelUpdate8=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

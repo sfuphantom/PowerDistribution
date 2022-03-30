@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=root Member=JP?
+Removed Member From Class: ClassName=root Member=R?
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP7
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_1
+Added Member To Class: ClassName=root Member=Component JP3 Testpoint2
+Added Member To Class: ClassName=root Member=Component R2 0R
