@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\Gaming\Documents\TeamPhantom\PowerDistribution\HV_Board_Rev3\lt3001_eval\Release\Pick Place\Pick Place for lt3001_eval.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/03/22
+Time:       12:04
+Revision:   41219fdae05e30797e9aa3d8d5da1e65459f174b
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                                                                 
+T1         750315831             TopLayer 750315831        1954.331      1470.000      360      "Flyback Converters For For DC/DC Converters SMPS Transformer 1875Vrms Isolation 50 ~ 200kHz Surface Mount" 
+JP6        732-5315-ND           TopLayer 2PIN-JP          1222.008      1095.000      0        "CONN HEADER VERT 2POS 2.54MM"                                                                              
+JP8        732-5315-ND           TopLayer 2PIN-JP          1222.008      1618.110      180      "CONN HEADER VERT 2POS 2.54MM"                                                                              
+JP3        732-5315-ND           TopLayer 2PIN-JP          2596.024      1094.488      180      "CONN HEADER VERT 2POS 2.54MM"                                                                              
+JP7        732-5315-ND           TopLayer 2PIN-JP          2596.024      1685.039      180      "CONN HEADER VERT 2POS 2.54MM"                                                                              
+R1         0R                    TopLayer RES-0603         2615.512      1371.575      180      "RES SMD 0 OHM JUMPER 1/10W 0603"                                                                           
+JP1        Testpoint2            TopLayer TP2              2275.000      1465.000      0        "Single layer pad TP"                                                                                       
+C2         CL10A226MP8NUNE       TopLayer CAP-0603         2520.000      1401.102      270      "CAP CER 22UF 10V X5R 0603"                                                                                 
+C1         CL10A226MP8NUNE       TopLayer CAP-0603         2460.000      1401.102      270      "CAP CER 22UF 10V X5R 0603"                                                                                 
+U1         LT3001ES5#TRMPBF      TopLayer SOT95P280X100-5N 1517.598      1418.425      90       "DC/DC Cntrlr Single-OUT Flyback Automotive 5-Pin TSOT-23 T/R"                                              
+R5         0R                    TopLayer RES-0603         1480.197      1225.000      90       "RES SMD 0 OHM JUMPER 1/10W 0603"                                                                           
+R4         RMCF0603FT255K        TopLayer RES-0603         1620.000      1439.488      90       "Res Thick Film 0603 255K Ohm 1% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"                                 
+R3         0R                    TopLayer RES-0603         1540.000      1225.000      270      "RES SMD 0 OHM JUMPER 1/10W 0603"                                                                           
+R2         0R                    TopLayer RES-0603         1660.000      1225.000      270      "RES SMD 0 OHM JUMPER 1/10W 0603"                                                                           
+JP10       Testpoint2            TopLayer TP2              1272.008      1360.000      270      "Single layer pad TP"                                                                                       
+JP11       Testpoint2            TopLayer TP2              1620.945      1650.000      0        "Single layer pad TP"                                                                                       
+JP9        Testpoint2            TopLayer TP2              1585.000      1070.866      0        "Single layer pad TP"                                                                                       
+JP4        Testpoint2            TopLayer TP2              2646.024      1490.000      0        "Single layer pad TP"                                                                                       
+JP2        Testpoint2            TopLayer TP2              2646.024      1236.220      0        "Single layer pad TP"                                                                                       
+JP5        Testpoint2            TopLayer TP2              1272.008      1270.000      270      "Single layer pad TP"                                                                                       
+D3         1N4148WTR             TopLayer DIODE-SOD123     1555.000      1556.614      0        "Diode Gen Purp 75V 250MA SOD123"                                                                           
+D2         "CMDZ5250B TR PBFREE" TopLayer DIODE-SOD323     1410.000      1513.307      270      "Diode Zener Single 20V 5% 250mW 2-Pin SOD-323 T/R"                                                         
+D1         SK64L-TP              TopLayer Diode-SOD123W    2335.000      1371.575      180      "6 AMP SCHOTTKY RECTIFIER 20 TO 100 VOLTS"                                                                  
+C3         CL21A475KAQNNNE       TopLayer CAP-0805         1303.504      1470.000      0        "CAP CER 4.7UF 25V X5R 0805"                                                                                
