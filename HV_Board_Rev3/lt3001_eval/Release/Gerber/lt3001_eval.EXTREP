@@ -1,5 +1,9 @@
 ------------------------------------------------------------------------------------------
+<<<<<<< HEAD
+Gerber File Extension Report For: lt3001_eval.GBR   2022-04-18  4:52:33 PM
+=======
 Gerber File Extension Report For: lt3001_eval.GBR   3/31/2022  12:04:11 PM
+>>>>>>> 4e0b3683575d4fa8bc2fa5a38cc8482e5bfbb278
 ------------------------------------------------------------------------------------------
 
 
@@ -14,6 +18,10 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+<<<<<<< HEAD
+.GM2                BOARD OUTLINE                           
+=======
 .GM2                Board Outline                           
+>>>>>>> 4e0b3683575d4fa8bc2fa5a38cc8482e5bfbb278
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------

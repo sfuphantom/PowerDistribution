@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=root Member=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Added Member To Class: ClassName=root Member=Component C4 CL21A475KAQNNNE

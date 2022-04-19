@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Layer Pairs Export File for PCB: C:\Users\jtsang451\Documents\TeamPhantom\PowerDistribution\HV_Board_Rev3\lt3001_eval\lt3001_eval.PcbDoc
+=======
 Layer Pairs Export File for PCB: C:\Users\Gaming\Documents\TeamPhantom\PowerDistribution\HV_Board_Rev3\lt3001_eval\lt3001_eval.PcbDoc
+>>>>>>> 4e0b3683575d4fa8bc2fa5a38cc8482e5bfbb278
 LayersSetName=Top_Bot_Thru_Holes|DrillFile=lt3001_eval.txt|DrillLayers=gtl,gbl

@@ -1,7 +1,13 @@
 Protel Design System Design Rule Check
+<<<<<<< HEAD
+PCB File : C:\Users\jtsang451\Documents\TeamPhantom\PowerDistribution\HV_Board_Rev3\lt3001_eval\lt3001_eval.PcbDoc
+Date     : 2022-04-18
+Time     : 4:52:01 PM
+=======
 PCB File : C:\Users\Gaming\Documents\TeamPhantom\PowerDistribution\HV_Board_Rev3\lt3001_eval\lt3001_eval.PcbDoc
 Date     : 3/31/2022
 Time     : 12:03:42 PM
+>>>>>>> 4e0b3683575d4fa8bc2fa5a38cc8482e5bfbb278
 
 Processing Rule : Clearance Constraint (Gap=5mil) (IsStitchingVia and InNet('HV_GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
 Rule Violations :0
@@ -57,4 +63,8 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
+<<<<<<< HEAD
+Time Elapsed        : 00:00:02
+=======
 Time Elapsed        : 00:00:01
+>>>>>>> 4e0b3683575d4fa8bc2fa5a38cc8482e5bfbb278

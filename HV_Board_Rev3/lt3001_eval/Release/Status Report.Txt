@@ -7,4 +7,8 @@ From  : Variant [[No Variations]] of PCB Document [lt3001_eval.PcbDoc]
 Files Generated   : 1
 Documents Printed : 0
 
+<<<<<<< HEAD
+Finished Output Generation At 4:52:44 PM On 2022-04-18
+=======
 Finished Output Generation At 12:04:15 PM On 3/31/2022
+>>>>>>> 4e0b3683575d4fa8bc2fa5a38cc8482e5bfbb278
